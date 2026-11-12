@@ -1,4 +1,6 @@
 Vibe coded by BennysHope
+
+
 CapKore (PS2 SLPM-66636) gameplay fixes ported to CPS2 Hyper Street Fighter II 040202
 (hsf2j and hsf2 USA). The patches go on the ENCRYPTED program ROMs: opcodes are re-encrypted per address, and data is written as plain bytes.
 They work with the original .key, so the set stays the stock encrypted parent/clone. Only the CRCs change, so MAME reports WRONG CHECKSUMS but runs it.
