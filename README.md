@@ -1,4 +1,7 @@
-Vibe coded by BennysHope
+Coded by BennysHope with AI
+
+Still needs testing on Darksoft etc
+
 
 
 CapKore (PS2 SLPM-66636) gameplay fixes ported to CPS2 Hyper Street Fighter II 040202
